@@ -4,5 +4,6 @@ public class Main {
     public static void main(String[] args) {
         System.out.println("hallo projektleiter");
         System.out.println("Ich bin Mitarbeiter");
+        System.out.println("Ich bin Projektleiter");
     }
 }
